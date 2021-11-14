@@ -24,9 +24,6 @@ export default function Navbar(props) {
                         </li>
                         
                     </ul>
-                        {/* <div class="form-check form-switch pd25">
-                            <input onClick={dmode} class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault"/>Dark Mode
-                        </div> */}
                     <form className="d-flex">
                         <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
                         <button className="btn btn-outline-success" type="submit">Search</button>

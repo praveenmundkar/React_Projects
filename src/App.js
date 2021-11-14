@@ -8,7 +8,7 @@ function App() {
     <>
       < Navbar title="TextUtilzz" />
       <div className="container cdesign my-3">
-        <TextForm heading="Enter Text to Analyze" />
+        <TextForm heading="Try TextUtilz | Word Counter | Char Counter | Convert Case " />
       </div>
     </>
   );
